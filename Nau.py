@@ -1,3 +1,7 @@
+def hola():
+    print("hola")
+
+
 def menu():
     print("w- Moure dreta")
     print("a- Moure equerre")
